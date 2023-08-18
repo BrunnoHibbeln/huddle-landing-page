@@ -11,7 +11,7 @@ export default function Home() {
         <Image className="w-full h-3/4" src={mockup} alt="Mockup" />
       </section>
       <section className="flex flex-col gap-8 w-full lg:w-2/4 py-16 px-9 lg:pr-14 lg:pl-10">
-        <article className="flex flex-col gap-5 justify-center items-start text-left h-full">
+        <article className="flex flex-col gap-5 justify-center items-center lg:items-start text-center lg:text-left h-full">
           <h2 className="text-white font-primary font-semibold text-2xl lg:text-5xl xl:text-6xl px-2 lg:pr-3 lg:pl-0">
             Build The Community Your Fans Will Love
           </h2>
